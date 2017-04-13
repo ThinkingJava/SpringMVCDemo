@@ -1,0 +1,10 @@
+target
+
+.idea/workspace.xml
+build
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
